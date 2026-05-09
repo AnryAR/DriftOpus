@@ -1,0 +1,8 @@
+age,salary,city,is_vip,signup_date
+20,100,a,False,2024-02-01
+30,200,b,False,2024-02-02
+40,300,c,True,2024-02-03
+25,150,d,True,2024-02-04
+26,180,d,True,2024-02-05
+27,190,d,False,2024-02-06
+
